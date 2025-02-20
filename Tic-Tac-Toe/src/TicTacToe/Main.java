@@ -28,6 +28,5 @@ public class Main {
         } catch (IllegalCallerException error) {
             System.out.println(error.getMessage() + " Invalid input");
         }
-	}
-
+    }
 }
