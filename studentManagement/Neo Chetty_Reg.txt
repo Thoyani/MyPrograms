@@ -1,0 +1,2 @@
+MATH140;Linear Algebra and Integral Calculus
+COMP102;Computer Programming
